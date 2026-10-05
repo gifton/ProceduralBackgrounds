@@ -1,0 +1,9 @@
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+
+# Local design specs and implementation plans (contain machine-local paths)
+docs/superpowers/
